@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":["file:///Users/wakhiwen/Documents/Dev_Applications/certifyhub/src/app/%28dashboard%29/certification/complete/page.tsx"],"sourcesContent":["import Link from \"next/link\";\n\nexport default function Step4Complete() {\n  return (\n    <div className=\"max-w-2xl mx-auto p-12 text-center\">\n      <div className=\"text-6xl mb-4 text-green-500\">🎉</div>\n      <h1 className=\"text-3xl font-bold mb-2\">Success!</h1>\n      <p className=\"text-gray-500 mb-8\">Your document has been certified and secured.</p>\n      <Link href=\"/dashboard\" className=\"text-blue-600 font-bold underline\">Back to Dashboard</Link>\n    </div>\n  );\n}"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;;0BACb,8OAAC;gBAAI,WAAU;0BAA+B;;;;;;0BAC9C,8OAAC;gBAAG,WAAU;0BAA0B;;;;;;0BACxC,8OAAC;gBAAE,WAAU;0BAAqB;;;;;;0BAClC,8OAAC,0LAAI;gBAAC,MAAK;gBAAa,WAAU;0BAAoC;;;;;;;;;;;;AAG5E"}}]
+}

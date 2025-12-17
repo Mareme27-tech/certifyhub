@@ -26,6 +26,14 @@ CertifyHub is built on a modern, scalable, and fully managed cloud infrastructur
 
 ## 🚀 Getting Started
 
-Instructions for setting up the local development environment will go here.
+### Run the development server:
 
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
 ---

@@ -1,0 +1,9 @@
+{
+  "/(auth)/signin/page": "app/(auth)/signin/page.js",
+  "/(dashboard)/certification/complete/page": "app/(dashboard)/certification/complete/page.js",
+  "/(dashboard)/certification/page": "app/(dashboard)/certification/page.js",
+  "/(dashboard)/certification/review/page": "app/(dashboard)/certification/review/page.js",
+  "/(dashboard)/certification/verify/page": "app/(dashboard)/certification/verify/page.js",
+  "/(dashboard)/dashboard/page": "app/(dashboard)/dashboard/page.js",
+  "/page": "app/page.js"
+}
